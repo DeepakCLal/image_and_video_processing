@@ -1,2 +1,2 @@
 # image_and_video_processing
-personal mini projects on image processing problems.
+personal mini project on image processing problems.
